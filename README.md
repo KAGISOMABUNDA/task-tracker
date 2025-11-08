@@ -117,9 +117,7 @@ See FIREBASE.md for CLI setup and CI deployment tips.
 
 See CONTRIBUTING.md for how to contribute and run checks.
 
-## License
 
-Add a LICENSE file (MIT recommended) and update this section.
 
 ## Maintainer
 
